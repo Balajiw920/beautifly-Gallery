@@ -1,0 +1,30 @@
+*{
+  background-color:gold;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container {
+  width: 25%;
+  text-align: center;
+}
+.first1 {
+  width: 300px;
+}
+
+#dice-img {
+  width: 100px;
+}
+
+#btn {
+  color: aliceblue;
+  background-color: black;
+  border-radius: 10%;
+}
+
+.hidden {
+  display: none;
+}
